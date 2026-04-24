@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Logoutpage = () => {
+const Loginpage = () => {
     return (
         <div>
             <h2>Its logout page</h2>
@@ -8,4 +8,4 @@ const Logoutpage = () => {
     );
 };
 
-export default Logoutpage;
+export default Loginpage;
